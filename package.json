@@ -1,0 +1,18 @@
+{
+  "name": "codemods",
+  "version": "0.0.0",
+  "description": "Codemods made by clintonb",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clintonb/codemods.git"
+  },
+  "keywords": [
+    "codemod",
+    "jscodeshift"
+  ],
+  "author": "Clinton Blackburn",
+  "license": "MIT",
+  "devDependencies": {
+    "jscodeshift": "^0.15.0"
+  }
+}
